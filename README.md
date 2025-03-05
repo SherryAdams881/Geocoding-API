@@ -54,8 +54,3 @@ The utility uses the OpenWeather API key (`f897a99d971b5eef57be6fafa0d83239`). I
 - The utility supports only U.S. locations.
 - If multiple results are returned by the API, the first result is used.
 - If an invalid location is provided, the utility will indicate that no data was found.
-
-## License
-
-This project is for demonstration purposes only.
-
